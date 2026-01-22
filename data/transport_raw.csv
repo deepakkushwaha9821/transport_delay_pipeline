@@ -1,0 +1,6 @@
+train_id,origin,destination,Scheduled_Arrival,Actual_Arrival
+T101,Delhi,Mumbai,2025-01-01 10:00:00,2025-01-01 10:45:00
+T102,Delhi,Kolkata,2025-01-01 11:00:00,2025-01-01 11:20:00
+T103,Mumbai,Delhi,2025-01-01 09:00:00,2025-01-01 09:50:00
+T104,Chennai,Bangalore,2025-01-01 08:00:00,2025-01-01 08:40:00
+T105,Delhi,Mumbai,2025-01-02 10:00:00,2025-01-02 11:30:00
